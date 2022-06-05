@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tha-rusha&label=Profile%20views&color=0e75b6&style=flat" alt="tha-rusha" /> </p>
 
-- 🔭 I’m currently working on **C | HTML | Adobe Ps | Adobe Ai**
+- 🔭 I’m currently working on **C | HTML | PHP | Adobe Ps | Adobe Ai**
 
 - 🌱 I’m currently learning **Java | PHP | HTML | CSS**
 
 - 👯 I’m looking to collaborate on **UI/UX Design**
 
-- 💬 Ask me about **Adobe Ps , HTML**
+- 💬 Ask me about **Adobe Ps | HTML**
 
 - 📫 How to reach me **egodagahagedaratharusha932@gmail.com**
 
