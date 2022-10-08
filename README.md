@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tha-rusha&label=Profile%20views&color=0e75b6&style=flat" alt="tha-rusha" /> </p>
 
-- 🔭 I’m currently working on **C | HTML | PHP | Adobe Ps | Adobe Ai |JAVA**
+- 🔭 I’m currently working on **C | HTML | PHP | Adobe Ps | Adobe Ai | JAVA**
 
 - 🌱 I’m currently learning **Java | PHP | HTML | CSS**
 
