@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tha-rusha&show_icons=true&locale=en" alt="tha-rusha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tha-rusha&" alt="tha-rusha" /></p>
+
+[![@tharushad's Holopin board](https://holopin.me/tharushad)](https://holopin.io/@tharushad)
