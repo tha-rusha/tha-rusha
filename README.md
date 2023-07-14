@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **C | HTML | PHP | Adobe Ps | Adobe Ai | JAVA**
 
-- 🌱 I’m currently learning **Java | PHP | HTML | CSS**
+- 🌱 I’m currently learning **Java | PHP | HTML | Dart | Flutter**
 
-- 👯 I’m looking to collaborate on **UI/UX Design**
+- 👯 I’m looking to collaborate on **UI/UX Design | Mobile Application Development**
 
 - 💬 Ask me about **Adobe Ps | HTML**
 
