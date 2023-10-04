@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tha-rusha&label=Profile%20views&color=0e75b6&style=flat" alt="tha-rusha" /> </p>
 
-- 🔭 I’m currently working on **C | HTML | PHP | Adobe Ps | Adobe Ai | JAVA**
+- 🔭 I’m currently working on **C | HTML | PHP | Adobe Ps | Adobe Ai | JAVA | Flutter**
 
-- 🌱 I’m currently learning **Java | PHP | HTML | Dart | Flutter**
+- 🌱 I’m currently learning **Java | PHP | HTML | Dart | Flutter | Laravel**
 
 - 👯 I’m looking to collaborate on **UI/UX Design | Mobile Application Development**
 
-- 💬 Ask me about **Adobe Ps | HTML**
+- 💬 Ask me about **Adobe Ps | Web Development | Mobile App Development**
 
 - 📫 How to reach me **egodagahagedaratharusha932@gmail.com**
 
