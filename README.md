@@ -37,5 +37,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tha-rusha&" alt="tha-rusha" /></p>
 
-[![An image of @tharushad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tharushad)](https://holopin.io/@tharushad)
+(https://holopin.me/tharushad)](https://holopin.io/@tharushad)
 .
