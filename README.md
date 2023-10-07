@@ -1,5 +1,4 @@
-<h1 align="center"><a href="[https://tha-rusha.github.io/My_Portfolio_Webpage/](https://tha-rusha.github.io/My_Portfolio_Webpage/)
-">Hi 👋, I'm Tharusha Dilhara</a></h1>
+<h1 align="center"><a href="https://tha-rusha.github.io/My_Portfolio_Webpage/">Hi 👋, I'm Tharusha Dilhara</a></h1>
 <h3 align="center">An Undergraduate From NSBM Green University.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
