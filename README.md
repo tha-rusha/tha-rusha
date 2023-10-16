@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **UI/UX Design | Mobile Application Development | Web Development**
 
-- 👨‍💻 All of my projects are available at [https://tha-rusha.github.io/My_Portfolio_Webpage/](https://tha-rusha.github.io/My_Portfolio_Webpage/)
+- 👨‍💻 All of my projects are available at [https://tharushadilhara.me/](https://tharushadilhara.me/)
 
 - 💬 Ask me about **Adobe Ps | Web Development | Mobile App Development**
 
