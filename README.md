@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://tha-rusha.github.io/My_Portfolio_Webpage/" target="_blank">Hi 👋, I'm Tharusha Dilhara</a></h1>
+<h1 align="center"><a href="https://tharushadilhara.me/" target="_blank">Hi 👋, I'm Tharusha Dilhara</a></h1>
 <h3 align="center">An Undergraduate From NSBM Green University.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **UI/UX Design | Mobile Application Development | Web Development**
 
-- 👨‍💻 All of my projects are available at [tharushadilhara.me](tharushadilhara.me)
+- 👨‍💻 All of my projects are available at <a href="https://tharushadilhara.me/" target="_blank">(tharushadilhara.me)</a>
 
 - 💬 Ask me about **Adobe Ps | Web Development | Mobile App Development**
 
